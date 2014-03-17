@@ -55,4 +55,5 @@ SampleApp::Application.routes.draw do
   #   end
   get "static_pages/home"
   get "static_pages/help"
+  get "static_pages/about"
 end
